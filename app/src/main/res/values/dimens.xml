@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="top_text_size">14sp</dimen>
+    <dimen name="bottom_text_size">12sp</dimen>
+    <dimen name="text_padding">5dp</dimen>
+    <dimen name="start_point_distance">15dp</dimen>
+    <dimen name="broken_line_length">15dp</dimen>
+    <dimen name="pie_space">2dp</dimen>
+    <dimen name="start_point_alpha_stroke_width">10dp</dimen>
+    <dimen name="start_point_stroke_width">5dp</dimen>
+    <dimen name="line_stroke_width">1dp</dimen>
+</resources>
